@@ -74,7 +74,7 @@ a:hover {
     width: 100%;
     height: 80px;
     padding: 10px 0;
-    border-top: 2px solid #540500;
+    border-top: 2px solid #2E5A88;
     position: relative;
     line-height: 28px;
 }
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .header-menu {
-    background-color: #540500;
+    background-color: #2E5A88;
 }
 
 .header-menu .navbar.navbar-default {
@@ -273,15 +273,15 @@ a:hover {
     font-weight: bold;
     line-height: 30px;
     padding: 2px 5px;
-    border: 1px solid #540500;
-    border-left: 8px solid #540500;
+    border: 1px solid #2E5A88;
+    border-left: 8px solid #2E5A88;
 }
 
 /* content======================================================================= */
 
 .BC-title {
     width: 100%;
-    border-bottom: 2px solid #540500;
+    border-bottom: 2px solid #2E5A88;
     margin-bottom: 20px;
 }
 
@@ -293,7 +293,7 @@ a:hover {
 }
 
 .BC-sTitle {
-    border-left: 8px solid #540500;
+    border-left: 8px solid #2E5A88;
     display: block;
     padding: 5px;
     margin-bottom: 20px;
@@ -334,13 +334,13 @@ a:hover {
 .pager li>a {
     border-radius: 0;
     background-color: #ffffff;
-    border-color: #540500;
-    color: #540500;
+    border-color: #2E5A88;
+    color: #2E5A88;
     font-weight: bold;
 }
 
 .pager li.active>a {
-    background-color: #540500;
+    background-color: #2E5A88;
     color: #ffffff;
 }
 
@@ -370,18 +370,18 @@ a:hover {
 }
 
 .BC-news li>a>span {
-    color: #540500;
+    color: #2E5A88;
     margin-right: 15px;
 }
 
 .BC-newsDate {
     margin-top: -15px;
     margin-bottom: 20px;
-    color: #540500;
+    color: #2E5A88;
 }
 
 .BC-newsDate a {
-    color: #540500;
+    color: #2E5A88;
 }
 
 .BC-newsDate a:focus,
@@ -405,7 +405,7 @@ a:hover {
 
 .product-item .product-item-img a:focus,
 .product-item .product-item-img a:hover {
-    outline: 2px solid #540500;
+    outline: 2px solid #2E5A88;
 }
 
 .product-item .product-item-text h4 {
@@ -472,7 +472,7 @@ a:hover {
     width: 100%;
     text-align: center;
     display: block;
-    background-color: #540500;
+    background-color: #2E5A88;
     font-size: 20px;
     font-weight: bold;
     line-height: 40px;
@@ -489,7 +489,7 @@ a:hover {
 }
 
 .photo-list>.nav-tabs {
-    border-bottom: 2px solid #540500;
+    border-bottom: 2px solid #2E5A88;
     margin-bottom: 20px;
 }
 
@@ -513,7 +513,7 @@ a:hover {
 .photo-list>.nav-tabs>li.active>a {
     border: none;
     background-color: transparent;
-    color: #540500;
+    color: #2E5A88;
 }
 
 .photo-list .photo-list-img {
@@ -527,7 +527,7 @@ a:hover {
 
 .photo-list .photo-list-img:focus,
 .photo-list .photo-list-img:hover {
-    border-color: #540500;
+    border-color: #2E5A88;
 }
 
 .photo-list .photo-list-img img {
@@ -552,7 +552,7 @@ a:hover {
     width: 100%;
     padding-bottom: 100%;
     display: block;
-    border: 1px solid #540500;
+    border: 1px solid #2E5A88;
     position: relative;
     overflow: hidden;
 }
@@ -579,7 +579,7 @@ a:hover {
 .BC-submitBTN {
     padding: 5px 30px;
     border: none;
-    background-color: #540500;
+    background-color: #2E5A88;
     color: #ffffff;
     font-size: 20px;
     line-height: 30px;
